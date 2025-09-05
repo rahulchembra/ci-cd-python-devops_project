@@ -34,7 +34,8 @@ ci-cd-flask-demo/
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/ci-cd-flask-demo.git
+git clone https://github.com/rahulchembra/ci-cd-python-devops_project.git<img width="577" height="23" alt="image" src="https://github.com/user-attachments/assets/b16dacbd-1c4c-4d41-abd8-d71e9462efc1" />
+
 cd ci-cd-flask-demo
 
 ### 2. Run tests locally in a virtual environment
@@ -97,7 +98,11 @@ docker rm ci_demo
 ## Docker Hub Image
 
 - Docker image is available at:  
-https://hub.docker.com/r/rahulchembra/ci-cd-flask-demo/tags
+https://hub.docker.com/repository/docker/rahulchembra/ci-cd-flask-demo/tags
+<img width="628" height="23" alt="image" src="https://github.com/user-attachments/assets/02cd3505-5b31-4053-bd7d-b947e5910f8f" />
+
+
+
 
 ## Screenshots
 
