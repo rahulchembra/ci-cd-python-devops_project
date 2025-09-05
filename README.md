@@ -22,8 +22,10 @@ ci-cd-flask-demo/
 ├── Dockerfile              # Docker image instructions
 ├── docker-compose.yml      # Optional: run multiple containers locally
 ├── screenshots/            # Folder containing project screenshots
-└── .github/workflows/
-    └── ci-cd.yml           # GitHub Actions workflow
+└── .github/
+    └── workflows/
+        └── ci-cd.yml       # GitHub Actions workflow
+
 
 
 ## Setup Instructions
