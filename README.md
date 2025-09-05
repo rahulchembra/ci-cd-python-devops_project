@@ -13,6 +13,7 @@ Key Features:
 
 ## Project Structure
 
+```text
 ci-cd-flask-demo/
 ├── app.py                  # Flask application
 ├── requirements.txt        # Python dependencies
@@ -25,6 +26,7 @@ ci-cd-flask-demo/
 └── .github/
     └── workflows/
         └── ci-cd.yml       # GitHub Actions workflow
+```
 
 
 
