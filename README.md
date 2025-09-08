@@ -17,7 +17,7 @@ Key Features:
 ci-cd-flask-demo/
 ├── app.py                  # Flask application
 ├── requirements.txt        # Python dependencies
-├──CI-CD Pipeline with GitHub Actions & Docker-project report
+├──Project Report.pdf
 ├── tests/
 │   ├── __init__.py
 │   └── test_app.py         # Pytest tests
